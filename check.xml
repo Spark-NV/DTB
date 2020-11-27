@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer friendlyName="myPlex" identifier="com.plexapp.plugins.myplex" size="1" title="Updates">
+    <Release id="9.0" version="9.0" added="" fixed="" live="true" autoupdate="true" createdAt="2020-11-16T01:57:11+00:00">
+      <Package file="TAR.GZ UPDATE URL HERE" fileHash="<%= release['update_sum'] %>" fileName="UPDATE FILE NAME.TAR.GZ" delta="false"/>
+    </Release>
+</MediaContainer>
